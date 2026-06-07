@@ -1,0 +1,12 @@
+.git
+.gitignore
+.next/cache
+.eslintrc
+.eslintignore
+node_modules
+npm-debug.log
+.DS_Store
+.env.local
+.env.*.local
+.swc
+*.tsbuildinfo
